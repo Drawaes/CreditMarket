@@ -26,7 +26,7 @@ INSERT VIDEO
 Writing the basic WebApi Code with Mvc
 *Press down to view video*
 +++
-INSERT VIDEO
+![Mvc Video](https://www.youtube.com/embed/N6pNJpP-8XM)
 ---
 Writing a second host as a windows service
 *Press down to view video*
@@ -43,8 +43,8 @@ What did we achieve?
 ---
 Links
 
-1. (Visual Studio)[https://www.visualstudio.com/]
-1. (Visual Studio Code)[https://code.visualstudio.com/]
-1. (ConEmu)[https://conemu.github.io/]
-1. (dasMulli Win32 Service)[https://github.com/dasMulli/dotnet-win32-service]
-1. (Code on github)[]
+1. [Visual Studio](https://www.visualstudio.com/)
+1. [Visual Studio Code](https://code.visualstudio.com/)
+1. [ConEmu](https://conemu.github.io/)
+1. [dasMulli Win32 Service](https://github.com/dasMulli/dotnet-win32-service)
+1. [Code on github](https://github.com/Drawaes/CreditMarket/tree/Step1)
