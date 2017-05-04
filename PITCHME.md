@@ -1,39 +1,42 @@
-Zero to a basic WebApi Project
+##Let's Get Started!!
 ---
-Dev Environment Setup
+#Dev Environment Setup
 
 1. Visual Studio Community Edition
 1. ConEmu
 1. Visual Studio Code
 ---
-Tutorial Goal
+#Tutorial Goal
 
 1. Create Project Structure
 2. Make a basic WebApi Project
 3. Setup a console app and windows service
 ---
-Learning Goal
+#Learning Goal
 
 1. How to use MVC for a WebApi
 1. How to split logic from the host
 1. How to correctly tag your controller
 ---
-Project Layout
+#Project Layout
+
 *Press down to view video*
 +++
 INSERT VIDEO
 ---
-Writing the basic WebApi Code with Mvc
+#Writing the basic WebApi Code with Mvc
+
 *Press down to view video*
 +++
 ![Mvc Video](https://www.youtube.com/embed/N6pNJpP-8XM)
 ---
-Writing a second host as a windows service
+#Writing a second host as a windows service
+
 *Press down to view video*
 +++
 INSERT VIDEO
 ---
-What did we achieve?
+#What did we achieve?
 
 - Development Environment Setup |
 - Project layout and files created |
@@ -41,7 +44,7 @@ What did we achieve?
 - A Windows Service Host |
 - A WebApi that serializes to Json |
 ---
-Links
+#Links
 
 1. [Visual Studio](https://www.visualstudio.com/)
 1. [Visual Studio Code](https://code.visualstudio.com/)
